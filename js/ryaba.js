@@ -51,8 +51,8 @@ function handleData(data) {
         
         newButton.classname = "closebutton";
         newButton.style.cssText = `position: absolute;
-         top: 60px;
-         left: 825px;
+         top: 65px;
+         left: 845px;
          text-align: center;
          vertical-align: middle;
          background: #f2f6f8;
